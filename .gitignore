@@ -1,5 +1,8 @@
 # vscode
 java_problems/.vscode/
 
-# compiled class files
+# java
 java_problems/src/*.class
+
+# c++
+cpp_problems/*.exe
