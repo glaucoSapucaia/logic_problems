@@ -1,1 +1,5 @@
-/java_problems/.vscode/
+# vscode
+java_problems/.vscode/
+
+# compiled class files
+java_problems/src/*.class
