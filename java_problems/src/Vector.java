@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class VectorSum {
+public class Vector {
     // static vars
     static Scanner sc;
     public static void main(String[] args) {
