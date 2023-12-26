@@ -6,3 +6,6 @@ java_problems/src/*.class
 
 # c++
 cpp_problems/*.exe
+cpp_problems/*
+!*.*
+!/**/
