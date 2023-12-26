@@ -1,9 +1,4 @@
-﻿using System.Globalization;
-
-// culture
-CultureInfo CI = CultureInfo.InvariantCulture;
-
-// variables
+﻿// variables
 int a, b, c, lower_number;
 
 // inputs
