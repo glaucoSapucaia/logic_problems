@@ -4,7 +4,13 @@ java_problems/.vscode/
 
 # java
 java_problems/src/*.class
+java_problems/*
+!java_problems/src
 
 # c++
 cpp_problems/*
 !cpp_problems/*.cpp
+
+# c#
+/cs_problems/*/*
+!cs_problems/*/*.cs
